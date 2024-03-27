@@ -74,3 +74,6 @@ https://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-interna
 
 Follow this one to deal with corrupted pip:
 http://www.cosonok.com/2022/08/windowspython-fixing-corrupted-pip-file.html
+
+pip._vendor.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='files.pythonhosted.org', port=443): Read timed out:
+https://stackoverflow.com/questions/43298872/how-to-solve-readtimeouterror-httpsconnectionpoolhost-pypi-python-org-port
